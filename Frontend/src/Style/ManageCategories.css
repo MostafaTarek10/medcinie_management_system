@@ -1,0 +1,17 @@
+.manage-cat {
+    padding: 5px;
+    text-align: center;
+}
+.header {
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+    padding: 10px;
+    margin-bottom: 15px;
+}
+
+.manage-cat .Categories-img {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}

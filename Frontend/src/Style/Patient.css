@@ -1,0 +1,28 @@
+.title {
+    font-size: 30px;
+    font-weight: bold;
+
+}
+.Card-Link {
+    text-decoration: none;
+    color: white;
+    border: 1px solid black;
+    padding: 5px;
+    background-color: black;
+    border-radius: 15px;
+    margin-right: 35px;
+}
+/* .Card-Link:hover {
+    color: black;
+    background-color: white;
+    font-weight: bold;
+} */
+.Another-Link {
+        text-decoration: none;
+    color: white;
+    border: 1px solid black;
+    padding: 5px;
+    background-color: black;
+    border-radius: 15px;
+    margin-left: 75px;
+}

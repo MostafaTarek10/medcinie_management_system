@@ -1,0 +1,136 @@
+.home-container {
+    padding: 10px;
+    margin: 60px;
+    margin-top: 30px;
+}
+.Search {
+    background-color: black;
+    color: white;
+    margin-left: 10px;
+    padding: 10px;
+}
+.frm-group {
+    display: flex;
+    margin-bottom: 20px;
+    width: 50%;
+    justify-content: flex-end;
+    align-self: flex-end;
+}
+.text {
+    /* font-weight: bold; */
+    text-align: center;
+    padding: 10px;
+    margin: 20px;
+    margin-bottom: 20px;
+}
+.text h1 {
+    font-size: 70px;
+}
+
+/* START LANDING */
+.landing{
+    background-image: url(../Home/image/layout.svg);
+    background-size: cover;
+    height: calc(100vh - 64px);
+    position: relative;
+    margin-bottom: 50px;
+
+}
+.landing .intro-text {
+    position: absolute;
+    /* left: 50%; */
+    top: 20%;
+    text-align: center;
+    /* transform: translate(-50%, -50%); */
+    width: 320px;
+    max-width: 100%;
+}
+.landing .intro-text h1 {
+    margin: 0;
+    font-weight: bold;
+    font-size: 50px;
+    color: var(--main-color);
+}
+.landing .intro-text p {
+    font-size: 19px;
+    line-height: 1.8;
+}
+/* END LANDING */
+
+/* START MEDICINE LIST */
+.MedList {
+    padding: 20px;
+    margin: 20px 0 20px 0;
+}
+/* End MEDICINE LIST */
+/* CONTACT */
+.contact {
+    padding-top: 60px;
+    padding-bottom: 60px;
+
+}
+.contact .main-heading {
+    text-align: center;
+}
+.contact .main-heading h2 {
+    font-size: 50px;
+    font-weight: bold;
+}
+.contact .content {
+    display: flex;
+    justify-content: space-between;
+}
+
+.contact .content form {
+    flex-basis: 70%;
+}
+.contact .content form .main-input {
+    padding: 20px;
+    display: block;
+    border: 1px solid #ccc;
+    margin-bottom: 30px;
+    width: 100%;
+}
+.contact .content form .main-input:focus {
+    outline: none;
+}
+.contact .content form textarea.main-input {
+    height: 200px;
+}
+.contact .content form input[type="submit"] {
+    background-color: var(--main-color);
+    color: white;
+    padding: 20px;
+    border: none;
+    display: flex;
+    margin-left: auto;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+.contact .content .info {
+    flex-basis: 25%;
+}
+
+
+.contact .content .info h4 {
+    text-transform: uppercase;
+    margin-bottom: 30px;
+    font-weight: 500;
+    font-size: 18px;
+}
+.contact .content .info .phone {
+    display: block;
+    color: #777;
+    margin-bottom: 10px;
+}
+.contact .content .info h4:nth-of-type(2) {
+    margin-top: 90px;
+}
+
+.contact .content .info address {
+    color: #777;
+    line-height: 2;
+}
+
+/* CONTACT */
+

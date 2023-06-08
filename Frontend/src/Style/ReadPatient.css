@@ -1,0 +1,23 @@
+.Med-image {
+    width: 100%;
+    height: 300px;
+    border-radius: 25px;
+}
+
+.Med-Details-container h3 {
+    font-size: 50px;
+}
+
+.Details {
+    font-size: 22px;
+}
+
+.Price {
+    font-size: 20px;
+}
+
+.Price span {
+    font-size: 20px;
+    font-weight: bold;
+}
+

@@ -1,0 +1,22 @@
+.login-container {
+    width: 50%;
+    margin: auto;
+    margin-top: 20px;
+    height: 100vh;
+    width: 100vh;
+}
+
+.login-container h1 {
+    text-align: center;
+}
+.login-container .mb-3 {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.login-container button {
+    width: 100%;
+    font-size: 22px;
+    margin-bottom: 20px;
+    background-color: black;
+}
