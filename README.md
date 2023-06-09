@@ -2,7 +2,7 @@
 Medication management system, the admin can perform CRUD operations for the medicine categories, medicines, and patients.
 The patient can search for medicines and request them from the admin, the admin can accept or reject this request
 
-#Demo video
+# Demo video
 
 
 
