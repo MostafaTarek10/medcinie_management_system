@@ -7,5 +7,8 @@ The patient can search for medicines and request them from the admin, the admin 
 
 
 
-https://github.com/MostafaTarek10/medcinie_management_system/assets/124472553/1a32241b-5f4a-4eb5-9e4e-54559ccb87f7
+
+https://github.com/MostafaTarek10/medcinie_management_system/assets/124472553/4966207b-99e2-4e2e-8453-6e1a8e236e57
+
+
 
